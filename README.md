@@ -21,11 +21,10 @@
 <p align="center">
   Hi, I'm <b>Nekmouche Sintia</b>, a passionate Full Stack Developer from Algeria 🇩🇿
   <br><br>
-  🌱 I'm currently learning Web Development (HTML, CSS, JavaScript, React, PHP...)
-  <br>
+   
   💬 Ask me anything from <a href="https://github.com/nekmouche-sintia/nekmouche-sintia/issues" title="Issues">here</a>
   <br>
-  📫 Contact me: <a href="mailto:nekmouchesintia4@example.com">youremail@example.com</a>
+  📫 Contact me: <a href="mailto:nekmouchesintia4@example.com">nekmouchesintia4@gmail.com</a>
 </p>
 
 <hr>
