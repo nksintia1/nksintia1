@@ -10,7 +10,7 @@
   <a href="YOUR_LINKEDIN_URL" title="LinkedIn - Nekmouche Sintia" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:28px; margin-right:8px;">
   </a>
-  <a href="YOUR_INSTAGRAM_URL" title="Instagram - Nekmouche Sintia" target="_blank" rel="noopener">
+  <a href="[YOUR_INSTAGRAM_URL](https://www.linkedin.com/in/nekmouche-sintia-524694384/)" title="Instagram - Nekmouche Sintia" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Instagram-Profile-E1306C?logo=instagram&logoColor=white" alt="Instagram" style="height:28px;">
   </a>
 </p>
