@@ -8,7 +8,7 @@
 
  <p align="center">
   <a href="YOUR_LINKEDIN_URL" target="_blank" title="LinkedIn">
-    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" height="45" style="margin-right:15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="45" style="margin-right:15px;">
   </a>
 
   <a href="YOUR_INSTAGRAM_URL" target="_blank" title="Instagram">
