@@ -11,7 +11,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="45" style="margin-right:15px;">
   </a>
 
-  <a href="YOUR_INSTAGRAM_URL" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/sinti_adev1/" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="45">
   </a>
 </p>
