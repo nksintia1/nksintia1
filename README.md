@@ -7,7 +7,7 @@
 </h1>
 
  <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/nekmouche-sintia-524694384/" target="_blank" title="LinkedIn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="45" style="margin-right:15px;">
   </a>
 
