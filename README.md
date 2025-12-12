@@ -25,7 +25,7 @@
   <br>
   💬 Ask me anything from <a href="https://github.com/nekmouche-sintia/nekmouche-sintia/issues" title="Issues">here</a>
   <br>
-  📫 Contact me: <a href="mailto:youremail@example.com">youremail@example.com</a>
+  📫 Contact me: <a href="mailto:nekmouchesintia4@example.com">youremail@example.com</a>
 </p>
 
 <hr>
