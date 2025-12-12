@@ -50,33 +50,4 @@
 
 <hr>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=nekmouche-sintia&theme=react&border=61dafb&hide_border=true"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nekmouche-sintia&show_icons=true&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekmouche-sintia&layout=compact&theme=react&hide_border=true"/>
-</p>
-
-<hr>
-
-<h2 align="center">📂 Featured Repositories</h2>
-<br>
-
-<div align="center">
-  <a href="https://github.com/nekmouche-sintia/your-project-1">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nekmouche-sintia&repo=your-project-1&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/nekmouche-sintia/your-project-2">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nekmouche-sintia&repo=your-project-2&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<h4 align="center">
-  <a href="https://github.com/nekmouche-sintia?tab=repositories">🔎 Show More 🔍</a>
-</h4>
 
