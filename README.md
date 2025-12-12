@@ -28,17 +28,20 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 
+## 🛠️ Skills I Learned
+
 <p align="center">
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="HTML5" height="40" src="https://skillicons.dev/icons?i=html"></code>
+  <code><img title="CSS3" height="40" src="https://skillicons.dev/icons?i=css"></code>
+  <code><img title="Bootstrap" height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
+  <code><img title="WordPress" height="40" src="https://skillicons.dev/icons?i=wordpress"></code>
+  <code><img title="JavaScript" height="40" src="https://skillicons.dev/icons?i=javascript"></code>
+  <code><img title="React" height="40" src="https://skillicons.dev/icons?i=react"></code>
+  <code><img title="UX/UI Design" height="40" src="https://skillicons.dev/icons?i=figma"></code>
+  <code><img title="PHP" height="40" src="https://skillicons.dev/icons?i=php"></code>
+  <code><img title="Database" height="40" src="https://skillicons.dev/icons?i=mysql"></code>
 </p>
+
 
 <hr>
 
