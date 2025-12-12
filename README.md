@@ -6,10 +6,15 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com" title="LinkedIn Profile"><img width="22" src="[images/linkedin.svg](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png)"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" title="LinkedIn - Nekmouche Sintia" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:28px; margin-right:8px;">
+  </a>
+  <a href="YOUR_INSTAGRAM_URL" title="Instagram - Nekmouche Sintia" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E1306C?logo=instagram&logoColor=white" alt="Instagram" style="height:28px;">
+  </a>
+</p>
+
 
 <br>
 
