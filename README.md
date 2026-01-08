@@ -39,10 +39,8 @@
   <code><img title="HTML5" height="40" src="https://skillicons.dev/icons?i=html"></code>
   <code><img title="CSS3" height="40" src="https://skillicons.dev/icons?i=css"></code>
   <code><img title="Bootstrap" height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
-  <code><img title="WordPress" height="40" src="https://skillicons.dev/icons?i=wordpress"></code>
   <code><img title="JavaScript" height="40" src="https://skillicons.dev/icons?i=javascript"></code>
   <code><img title="React" height="40" src="https://skillicons.dev/icons?i=react"></code>
-  <code><img title="UX/UI Design" height="40" src="https://skillicons.dev/icons?i=figma"></code>
   <code><img title="PHP" height="40" src="https://skillicons.dev/icons?i=php"></code>
   <code><img title="Database" height="40" src="https://skillicons.dev/icons?i=mysql"></code>
 </p>
