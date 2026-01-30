@@ -52,7 +52,7 @@ I enjoy building clean, responsive, and scalable web developement, and I'm conti
 
 ## 📫 Contact Me
 
-- 💌 Email: your-email@example.com
+- 💌 Email: nksintia5@gmail.com
 - 🐙 GitHub: [github.com/nekmouche-sintia](https://github.com/nekmouche-sintia)
 
 ---
