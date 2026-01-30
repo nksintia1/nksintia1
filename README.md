@@ -1,51 +1,69 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nekmouche.sintia">
+# 👩‍💻 Nekkouche Sintia — Full Stack Developer
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nekmouche+Sintia;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+Hi there 👋 I'm **Nekkouche Sintia**, a passionate **Full Stack Web Developer** from Algeria 🇩🇿.
 
- <p align="center">
-  <a href="https://www.linkedin.com/in/nekmouche-sintia-524694384/" target="_blank" title="LinkedIn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="45" style="margin-right:15px;">
-  </a>
+I enjoy building clean, responsive, and scalable web applications, and I'm continuously learning new technologies to improve my skills.
 
-  <a href="https://www.instagram.com/sinti_adev1/" target="_blank" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45">
-  </a>
-</p>
+---
 
+## 🚀 About Me
 
-<br>
+- 💻 Full Stack Web Developer (Frontend & Backend)
+- 🌱 Currently learning advanced JavaScript & backend development
+- 🔧 Love turning ideas into real projects
+- 🎯 Goal: become a professional developer & work on real-world applications
 
-<p align="center">
-  Hi, I'm <b>Nekmouche Sintia</b>, a passionate Full Stack Developer from Algeria 🇩🇿
-  <br><br>
-   
-  💬 Ask me anything from <a href="https://github.com/nekmouche-sintia/nekmouche-sintia/issues" title="Issues">here</a>
-  <br>
-  📫 Contact me: <a href="mailto:nekmouchesintia4@example.com">nekmouchesintia4@gmail.com</a>
-</p>
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
-<br>
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Responsive Design
 
-## 🛠️ Skills I Learned
+### Backend
+- JavaScript
+- PHP
+- REST APIs
+- Authentication basics
 
-<p align="center">
-  <code><img title="HTML5" height="40" src="https://skillicons.dev/icons?i=html"></code>
-  <code><img title="CSS3" height="40" src="https://skillicons.dev/icons?i=css"></code>
-  <code><img title="Bootstrap" height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
-  <code><img title="JavaScript" height="40" src="https://skillicons.dev/icons?i=javascript"></code>
-  <code><img title="React" height="40" src="https://skillicons.dev/icons?i=react"></code>
-  <code><img title="PHP" height="40" src="https://skillicons.dev/icons?i=php"></code>
-  <code><img title="Database" height="40" src="https://skillicons.dev/icons?i=mysql"></code>
-</p>
+### Database & Tools
+- MySQL
+- Git & GitHub
+- VS Code
 
+---
 
-<hr>
+## 📂 Projects
 
+Here are some projects I worked on (more coming soon 🚀):
 
+- 🔹 **Portfolio Website** — Personal responsive portfolio
+- 🔹 **E-Commerce App** — Full stack shop with database & authentication
+- 🔹 **Task Manager** — CRUD application with backend
+
+> 📌 Check my repositories to see the code.
+
+---
+
+## 📈 Currently Learning
+
+- Advanced JavaScript
+- Backend best practices
+- Databases & deployment
+
+---
+
+## 📫 Contact Me
+
+- 💌 Email: your-email@example.com
+- 🐙 GitHub: [github.com/nekmouche-sintia](https://github.com/nekmouche-sintia)
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
+
+Thanks for visiting 🙌
