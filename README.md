@@ -1,6 +1,6 @@
-# 👩‍💻 Nekkouche Sintia — Full Stack Developer
+# 👩‍💻 Nekmouche Sintia — Full Stack Developer
 
-Hi there 👋 I'm **Nekkouche Sintia**, a passionate **Full Stack Web Developer** from Algeria 🇩🇿.
+Hi there 👋 I'm **Nekmouche Sintia**, a passionate **Full Stack Web Developer** from Algeria 🇩🇿.
 
 I enjoy building clean, responsive, and scalable web applications, and I'm continuously learning new technologies to improve my skills.
 
