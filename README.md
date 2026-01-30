@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&lines=Hi+there+this+is+Sintia+Nekmouche" />
 </p>
 
+## 🌐 Social Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/nekmouche-sintia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/your-instagram-username)
+
 
 Hi there 👋 I'm **Nekmouche Sintia**, a passionate **Full Stack Web Developer** from Algeria 🇩🇿.
 
