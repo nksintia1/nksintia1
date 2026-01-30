@@ -1,4 +1,7 @@
-# 👩‍💻 Nekmouche Sintia — Full Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=Hi+there+👋;This+is+Sintia+Nekmouche;Full+Stack+Web+Developer" />
+</p>
+
 
 Hi there 👋 I'm **Nekmouche Sintia**, a passionate **Full Stack Web Developer** from Algeria 🇩🇿.
 
