@@ -3,7 +3,7 @@
 </p>
 
 ## 🌐 Social Links
-
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/nekmouche-sintia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/nekmouche-sintia-524694384/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/your-instagram-username)
@@ -16,7 +16,7 @@ I enjoy building clean, responsive, and scalable web developement, and I'm conti
 ---
 ## 🛠️ Tech Stack
 
-
+   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -24,7 +24,7 @@ I enjoy building clean, responsive, and scalable web developement, and I'm conti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-
+</p>
 
 ## 🚀 About Me
 
