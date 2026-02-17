@@ -73,6 +73,18 @@ I'm always exploring **new technologies** to grow my skills and create real-worl
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nekmouche-sintia&show_icons=true&theme=blue-green" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekmouche-sintia&layout=compact&theme=blue-green" />
+</p>
+
+---
+
 ## 📫 Contact Me
 
 - 💌 Email: [nksintia5@gmail.com](mailto:nksintia5@gmail.com)  
@@ -81,5 +93,5 @@ I'm always exploring **new technologies** to grow my skills and create real-worl
 
 ---
 
-⭐ If you like my work, **feel free to star my repositories** and connect with me!  
+⭐ If you like my work, **feel free to star my repositories** and connect with me!
 
